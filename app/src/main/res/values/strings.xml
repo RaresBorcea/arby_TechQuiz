@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">arby TechQUIZ</string>
+    <string name="title">WELCOME TO arby TechQUIZ!</string>
+    <string name="subtitle">This wonderful app will test your tech knowledge! But first,
+        let us now your name, so that we will be able to tell you how cool you are!</string>
+    <string name="name">Your name here</string>
+    <string name="start">Let\'s start the test!</string>
+
+    <string name="q1">Question 1</string>
+    <string name="q1text">\'OS\' computer abbreviation usually means?</string>
+    <string name="q1a1">Order of Significance</string>
+    <string name="q1a2">Open Software</string>
+    <string name="q1a3">Operating System</string>
+    <string name="q1a4">Optical Sensor</string>
+
+    <string name="q2">Question 2</string>
+    <string name="q2text">What does BIOS stand for?</string>
+    <string name="q2a1">Board Integrated Output System</string>
+    <string name="q2a2">Basic Input Output System</string>
+    <string name="q2a3">Board Intrusion Offense System</string>
+    <string name="q2a4">Nothing, BIOS is not an acronym</string>
+
+    <string name="q3">Question 3</string>
+    <string name="q3text">One of the founders of Apple Computer is:</string>
+    <string name="q3a1">Stephen Fry</string>
+    <string name="q3a2">Stephen Hawking</string>
+    <string name="q3a3">Steve Jobs</string>
+    <string name="q3a4">Bill Gates</string>
+
+    <string name="q4">Question 4</string>
+    <string name="q4text">Are part of the Lenovo Group:</string>
+    <string name="q4a1">Motorola</string>
+    <string name="q4a2">OnePlus</string>
+    <string name="q4a3">ZUK</string>
+    <string name="q4a4">HTC</string>
+
+    <string name="q5">Question 5</string>
+    <string name="q5text">Which of these is not a peripheral, in computer terms?</string>
+    <string name="q5a1">Mouse</string>
+    <string name="q5a2">Motherboard</string>
+    <string name="q5a3">Monitor</string>
+    <string name="q5a4">Keyboard</string>
+
+    <string name="q6">Question 6</string>
+    <string name="q6text">Which file extensions are image files?</string>
+    <string name="q6a1">MPG</string>
+    <string name="q6a2">JPG</string>
+    <string name="q6a3">BMP</string>
+    <string name="q6a4">MOV</string>
+
+    <string name="q7">Question 7</string>
+    <string name="q7text">Who founded Yahoo! ?</string>
+    <string name="q7a1">Jerry Yang</string>
+    <string name="q7a2">David Filo </string>
+    <string name="q7a3">Jeff Bezos</string>
+    <string name="q7a4">Elon Musk</string>
+
+    <string name="q8">Question 8</string>
+    <string name="q8text">What does the Internet prefix WWW stand for?</string>
+    <string name="q8a1">Your answer here</string>
+
+    <string name="button">Submit</string>
+    <string name="result">, this is your result:</string>
+    <string name="percentage">%!</string>
+    <string name="problems">You should recheck the following questions:</string>
+    <string name="problems1">You should recheck the following question:</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="all">You answered all questions!</string>
+    <string name="recheck">You ought to recheck all answers!</string>
+
+</resources>
